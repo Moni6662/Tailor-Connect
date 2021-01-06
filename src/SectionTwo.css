@@ -1,0 +1,88 @@
+body{
+    font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
+.headline{
+    position: relative;
+    left: 180px;
+    font-family:'Cookie', cursive;
+    font-size: 5rem;
+}
+#home-form{
+    color: rgb(82,75,59); 
+} 
+.overlay p{
+    position: relative;
+    left: 250px;
+    font-size: 20px;
+    color: black;
+
+}
+.overlay h3{
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+.formcontainer{
+    position: relative;
+    left: 180px;
+    top: 50px;
+    
+    background-color:lightyellow
+}
+.formdesign{
+    padding: 10px;
+    border: 1px solid rgb(182, 163, 119); ;
+   
+}
+.text-capitalize{
+    text-align: center;
+}
+#name{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+#btn1{
+    border: none;
+    width: 150px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: rgb(165, 156, 70) ;
+}
+
+span{
+    color: rgb(192, 175, 17) ;
+    float:center;
+    font-family: 'Cookie', cursive;
+    
+}
+
+.BodyKurs img{
+    position: absolute;
+    top: 60px;
+    left:0px;
+    width: 100%;
+    filter: blur(4px);
+    -webkit-filter: blur(3px);  
+}
+.overlay{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    text-align: center;
+    color: black;
+}
+.overlay a{
+    position: relative;
+    left: 200px; 
+    top: 50px;
+    margin-top:20px ;
+    border: 3px solid rgb(165, 156, 70) ; ;
+    color: white;
+    font-size: 15px;;
+    
+}
+a:hover{
+    background-color: rgb(165, 156, 70) ;
+  }

@@ -1,0 +1,62 @@
+#how-it-works{
+    background-color: rgb(71,20,61);
+    position: relative;
+    top: 700px; 
+    height: 700px;
+}
+
+  
+.work h2{
+    font-family: 'Aclonica', sans-serif;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 20px;
+   
+  }
+.work p{
+    text-transform: none;
+    text-align: center;
+    position: relative;
+    color: white;
+    position: relative;
+    top: 25px;
+  }
+.theme-bg-2{
+    width: 550px;
+    height:140px;
+    background: rgb(185,151,80);
+    border-radius: 5px;
+    position: relative;
+    top: 50px;
+    color: white;
+    
+
+  }
+.theme-bg-2 h5{
+    position: relative;
+    left:30px;
+    top: 10px;
+    font-size: 22px;
+    text-align: left;
+}
+
+.theme-bg-2 p{
+    position: relative;
+    top: 15px;
+    left:30px;
+    font-size: 18px;
+    width: 90%;
+    text-align: left;
+  }
+   
+.theme-bg-2 img{
+    position: relative;
+    top: 25px;
+    left: 15px;
+    height: 80px;
+    width: 80px;
+    border-radius: 70%;
+    
+}
+  

@@ -1,0 +1,35 @@
+.header{
+    height: 60px;
+    border: 1px solid purple;
+}
+#headericon{
+    position: sticky ;
+    background-color: rgb(71,20,61);
+}
+#headercontainer{
+    
+   
+    background-color: rgb(71,20,61);
+}
+ li{
+    position: relative;
+    
+    color: rgb(176,140,78);
+    float: left;
+    list-style: none;
+    padding-top: 10px;
+    font-size: 15px;
+    
+   
+}
+#iconimage{
+    position: relative;
+    left: 130px;
+    border-radius: 50%;
+}
+ .nav-link{
+    color: #B99750;
+  }
+.nav-link:hover{
+    color: whitesmoke;
+  }

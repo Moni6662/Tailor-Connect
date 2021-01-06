@@ -1,0 +1,85 @@
+.container-fluid{
+    background-color: rgb(41,44,47);
+    height: 300px;
+}
+#footer{
+    background-color: rgb(41,44,47);
+    position: relative;
+    top: 700px;
+    color:white;
+    
+}
+
+
+
+.footer-left span{
+    color: tan;
+    
+}
+.footer-left h4{ 
+    position: relative;
+    left: 50px; 
+    top: 40px;
+    font-size: 20px;
+}
+.footer-left h6{ 
+    position: relative;
+    left: 50px;
+    top:50px ;
+    font-size:15px;
+}
+
+.footer-left p{
+    font-size: 13px;
+    position: relative;
+    left: 40px;
+}
+.footer-left a{
+ color: white;
+ text-decoration: none;
+}
+
+.footer-middle {
+    padding: 10px;
+    width: 280px;
+}
+.footer-middle img{
+    height: 40px;
+    width: 40px;
+    margin-right: 2px;
+    border-radius: 50%;
+}
+.footer-middle p{
+    position: relative;
+    top: 5px;
+    left: -10px;
+    font-weight: bold;
+   
+}
+#para{
+    position: relative;
+    top: -10px;
+    left: 30px;
+}
+
+.footer-middle span{
+    color: tan;
+    margin-left: 15px;
+    font-weight: bold; 
+    font-size:15px ;
+}
+
+
+.footer-right p{
+    text-align: left;
+    font-size: 12px;
+    width: 250px;
+    
+}
+.footer-right h4{
+    position: relative;
+    left: 150px;
+    top: 30px;
+    
+    
+}

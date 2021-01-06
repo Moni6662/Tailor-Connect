@@ -1,0 +1,59 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+.design-section{
+    height: 400px;
+    background-color: rgb(88,42,78);
+   position: relative;
+   top: 700px;
+}
+.design p{
+    color: white;
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+.design span{
+    color: rgb(185,151,80);
+    
+}
+.design h2{
+    position: relative;
+    left: 550px;
+    top: 15px;
+    color: white;
+}
+div.gallery {
+    
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+    position: relative;
+    left: 80px;
+    
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: 200px;
+    
+    
+  }
+  .gallery p {
+    position: relative;
+    left: 70px;
+    top: -120px;
+    background-color: rgb(185,151,80);
+    width: 90px;
+    padding: 2px;
+    text-align: center;
+    color: whitesmoke;
+  }
+ 
